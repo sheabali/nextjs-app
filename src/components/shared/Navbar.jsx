@@ -13,7 +13,7 @@ const Navbar = () => {
         <Link href="/" className="text-2xl font-bold text-blue-600">
           CarShop
         </Link>
-        <div className="hidden md:flex space-x-6">
+        <div className="hidden text-black md:flex space-x-6">
           <Link href="/products" className="hover:text-blue-600">Products</Link>
           <Link href="/about" className="hover:text-blue-600">About</Link>
           <Link href="/contact" className="hover:text-blue-600">Contact</Link>
