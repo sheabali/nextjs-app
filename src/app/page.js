@@ -12,7 +12,7 @@ const HomePage = async () => {
 
   return (
     <div className="grid grid-cols-3 gap-8 w-[90%] mx-auto">
-      {products.map((product) => (
+      {products.slice(0, 3).map((product) => (
         <ProductCard key={product.id} product={product} />
       ))}
     </div>
