@@ -22,7 +22,7 @@
     {
       "id": 103,
       "name": "Laptop Pro 13",
-      "price": 1249.99,
+      "price": 1349.99,
       "category": "Electronics",
       "stock": 12,
       "description": "Balanced performance for daily use.",
@@ -31,7 +31,7 @@
     {
       "id": 104,
       "name": "Gaming Laptop Z1",
-      "price": 1599.99,
+      "price": 1699.99,
       "category": "Gaming",
       "stock": 5,
       "description": "High-performance gaming laptop with RGB keyboard.",
