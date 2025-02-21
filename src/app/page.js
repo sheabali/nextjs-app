@@ -12,12 +12,12 @@ const HomePage = async () => {
   const products = await res.json();
 
   return (
-    <div className="grid grid-cols-3 gap-8 w-[90%] mx-auto">
+    <div className="grid grid-cols-3 gap-8 my-7 w-[90%] mx-auto">
       {products.slice(0, 3).map((product) => (
         <ProductCard key={product.id} product={product} />
       ))}
       <div className="text-center my-7">
-        <button className="bg-blue-500 text-white py-2 px-4 rounded-full">
+        <button className="bg-blue-500 text-center text-white py-2 px-4 rounded-full">
           <Link href="/productss">View All Products</Link>
         </button>
       </div>
