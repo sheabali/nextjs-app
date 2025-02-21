@@ -3,7 +3,7 @@ import React from 'react';
 
 const AllProductPage = async () => {
   const res = await fetch('http://localhost:5000/products', {
-    cache: 'no-cathe',
+    cache: 'no-store',
   });
   const products = await res.json();
 
