@@ -1,0 +1,60 @@
+{
+  
+  "products": [
+    {
+      "id": 101,
+      "name": "Smartphone X",
+      "price": 799.99,
+      "category": "Electronics",
+      "stock": 25,
+      "description": "Latest model with advanced features.",
+      "image": "https://images.unsplash.com/photo-1616400619175-5beda3a17896?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 102,
+      "name": "Laptop Pro 12",
+      "price": 1199.99,
+      "category": "Electronics",
+      "stock": 8,
+      "description": "Lightweight laptop with powerful specs.",
+      "image": "https://images.unsplash.com/photo-1501159771943-cc9027db4d8b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 103,
+      "name": "Laptop Pro 13",
+      "price": 1249.99,
+      "category": "Electronics",
+      "stock": 12,
+      "description": "Balanced performance for daily use.",
+      "image": "https://images.unsplash.com/photo-1554412661-828c8d34bb9c?q=80&w=2742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 104,
+      "name": "Gaming Laptop Z1",
+      "price": 1599.99,
+      "category": "Gaming",
+      "stock": 5,
+      "description": "High-performance gaming laptop with RGB keyboard.",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=2652&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 105,
+      "name": "Ultrabook Slim 14",
+      "price": 999.99,
+      "category": "Electronics",
+      "stock": 15,
+      "description": "Sleek ultrabook for professionals on the go.",
+      "image": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 106,
+      "name": "Convertible Laptop Flex 16",
+      "price": 1399.99,
+      "category": "Electronics",
+      "stock": 7,
+      "description": "Versatile convertible laptop with touch screen.",
+      "image": "https://example.com/images/convertible_flex_16.jpg"
+    }
+  ]
+  
+}
